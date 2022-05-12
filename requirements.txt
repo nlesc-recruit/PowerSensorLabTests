@@ -1,4 +1,5 @@
 jupyterlab
+ipywidgets
 numpy
 matplotlib
 tqdm
